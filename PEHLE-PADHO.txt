@@ -1,0 +1,5 @@
+Dealer Console
+
+Ek baar: is PC pe Node (nodejs.org) aur Git (git-scm.com) install hone chahiye, aur Chrome.
+"Dealer Console.bat" pe double-click. Ye khud naya update le aata hai.
+Pehli screen par Dealer Console se mili License ID aur Password daalo.
