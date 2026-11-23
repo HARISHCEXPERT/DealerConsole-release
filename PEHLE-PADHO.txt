@@ -1,5 +1,6 @@
-Dealer Console
+Dealer Console v0.1.0
 
-Ek baar: is PC pe Node (nodejs.org) aur Git (git-scm.com) install hone chahiye, aur Chrome.
-"Dealer Console.bat" pe double-click. Ye khud naya update le aata hai.
-Pehli screen par Dealer Console se mili License ID aur Password daalo.
+1. Chrome install hona chahiye (zyadatar PC me hota hai).
+2. "Dealer Console.bat" pe double-click. Pehli baar thoda ruko.
+3. Browser me localhost:4000 khulega.
+4. Pehli screen par Dealer Console se mili License ID aur Password daalo — bas. (Alag app login nahi.)
